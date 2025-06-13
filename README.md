@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Dina Hellal
 Front-End Web developer
-![إحصائياتي في GitHub](https://github-readme-stats.vercel.app/api?dinaHellal=dinaHellal&show_icons=true&theme=radical)
+[!(https://streak-stats.demolab.com?user=dinaHellal)](https://git.io/streak-stats)
 
 
 
