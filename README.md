@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Dina Hellal
+I'm Dina — a passionate developer focused on front-end developer.
+![GitHub followers](https://img.shields.io/github/followers/USERNAME?label=Follow&style=social)
+⚡ Fun fact: I love cats 🐱  
+<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="200"/>
+
+
 
 <!--
 **dinaHellal/dinaHellal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
