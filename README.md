@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Dina Hellal
 I'm Dina — a passionate developer focused on front-end developer. 
 
-!(https://streak-stats.demolab.com?user=USERNAME)](https://git.io/streak-stats)
 
 
 <!--
