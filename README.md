@@ -6,7 +6,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=dinaHellal&label=Profile%20views&color=0e75b6&style=flat)
 
 
-📧 [Linkedin](https://www.linkedin.com/in/dina-hellal-440307301/)
+
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/اسمك](https://www.linkedin.com/in/dina-hellal-440307301/))
+
 
 <!--
 **dinaHellal/dinaHellal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
