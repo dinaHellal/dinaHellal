@@ -4,9 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dinaHellal&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🤝 Connect with me
 
-[![LinkedIn](https://www.linkedin.com/in/dina-hellal-440307301/)]()
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
