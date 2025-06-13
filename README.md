@@ -1,6 +1,5 @@
 # Hello 👋
-I'm Dina, a medical app developer 💻⚕️
-I love building apps that serve health and patients 🌿
+# I'm Dina, a Front-End Developer 💻⚕️
 
 
 
