@@ -3,7 +3,7 @@
 
 
 
-!(https://komarev.com/ghpvc/?dinaHellal=dinaHellal&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=dinaHellal&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
