@@ -55,14 +55,6 @@
 
 ![Trophies](https://github-trophies.vercel.app/?username=hagarsaeed25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 📊 GitHub Stats
-
-![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hagarsaeed25&theme=dark)
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hagarsaeed25&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hagarsaeed25&theme=dark&utcOffset=8)
-![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hagarsaeed25&theme=dark)
-![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hagarsaeed25&theme=dark) <br>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hagarsaeed25&theme=dark&show_icons=true&hide_border=true)
 
 
 
