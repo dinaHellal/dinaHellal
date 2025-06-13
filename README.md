@@ -3,10 +3,8 @@
 
 
 
+![Profile views](https://komarev.com/ghpvc/?dinaHellal=dinaHellal&label=Profile%20views&color=0e75b6&style=flat)
 
-## 📫 Contact Me
-- 📧 dinahellal12@gmail.com
-- 💼 [(https://www.linkedin.com/in/dina-hellal-440307301/)]
 
 
 
@@ -17,6 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
