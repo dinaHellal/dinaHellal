@@ -9,7 +9,7 @@
 
 ## 📫 Contact me
 - 📧 [Email](mailto:dinahellal12@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/dina-hellal-440307301/ Name)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dina-hellal-440307301/)
 
 
 
