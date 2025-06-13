@@ -51,9 +51,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)]()
 
-## 🏆 GitHub Trophies
 
-![Trophies](https://github-trophies.vercel.app/?username=hagarsaeed25&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 
