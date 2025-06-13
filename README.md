@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Dina Hellal
 Front-End Web developer
-![إحصائياتي في GitHub](https://github-readme-stats.vercel.app/api?username=اسم_المستخدم&show_icons=true&theme=radical)
+![إحصائياتي في GitHub](https://github-readme-stats.vercel.app/api?dinaHellal=اسم_المستخدم&show_icons=true&theme=radical)
 
 
 
