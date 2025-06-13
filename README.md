@@ -6,7 +6,7 @@
 
 ## 📫 Contact Me
 - 📧 dinahellal12@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/dina-hellal-440307301/)
+- 💼 [(https://www.linkedin.com/in/dina-hellal-440307301/)]
 
 
 
