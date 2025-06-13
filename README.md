@@ -1,6 +1,19 @@
-## Hi there 👋 I'm Dina Hellal
-Front-End Web developer
-[!(https://streak-stats.demolab.com?user=dinaHellal)](https://git.io/streak-stats)
+# Hello 👋
+I'm Dina, a medical app developer 💻⚕️
+I love building apps that serve health and patients 🌿
+
+## 💡 Skills
+- Flutter & Dart
+- Firebase & APIs
+- Design in Arabic and English
+
+## 🛠️ Top Projects
+- Rheumatology Clinic Appointment Management App
+- Bilingual Healthcare App Interfaces
+
+## 📫 Contact Me
+- 📧 dinacode@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/dina-hellal-440307301/)
 
 
 
