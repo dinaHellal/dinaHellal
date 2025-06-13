@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Dina Hellal
 I'm Dina — a passionate developer focused on front-end developer. 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+!(https://streak-stats.demolab.com?user=USERNAME)](https://git.io/streak-stats)
 
 
 <!--
