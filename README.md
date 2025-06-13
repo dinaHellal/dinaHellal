@@ -2,11 +2,11 @@
 
 ## Front-End Web developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=hagarsaeed25&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=dinaHellal&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🤝 Connect with me
 
-[![LinkedIn]([https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white](https://www.linkedin.com/in/dina-hellal-440307301/))]()
+[![LinkedIn]([https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white])]()
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
